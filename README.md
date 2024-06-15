@@ -31,20 +31,6 @@ This is a simple hand cricket game implemented in Python where you play against 
     - While bowling, the computer's runs are added to the target you need to achieve.
 5. **Winning**: The game ends after two innings. The player with the higher score wins.
 
-## Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/hand-cricket-game.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd hand-cricket-game
-    ```
-3. Run the game:
-    ```bash
-    python hand_cricket_game.py
-    ```
 
 ## Example Gameplay
 
